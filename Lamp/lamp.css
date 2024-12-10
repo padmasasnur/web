@@ -1,0 +1,43 @@
+body{
+    margin: 200px;
+}
+.box{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    background-color: grey;
+    position: relative;
+}
+.semicircle{
+    height: 20px;
+    width: 70px;
+    border-radius: 70%;
+    background-color:black;
+    margin: auto;
+}
+.wire{
+    height: 250px;
+    width: 5px;
+    background-color: black;
+    margin: auto;
+}
+.cover{
+    height: 60px;
+    border-top-right-radius: 100%;
+    border-top-left-radius: 100%;
+    background-color: black;
+    margin: auto;
+    margin-left: -50px;
+    margin-right: -50px;
+    margin-top: -1px;
+    opacity: .8;
+}
+.circle{
+    height: 90px;
+    width: 90px;
+    margin: auto;
+    border-radius: 100%;
+    border: 1px solid white;
+    background-color: white;
+    box-shadow: 2px 100px 100px 70px white;
+}
