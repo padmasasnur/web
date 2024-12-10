@@ -1,0 +1,9 @@
+/* element selector */
+h1 {
+  color: aqua;
+}
+
+/* universal selector */
+* {
+  color: indianred;
+}
